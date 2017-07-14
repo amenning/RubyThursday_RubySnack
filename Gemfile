@@ -42,6 +42,7 @@ group :development, :test do
   gem 'better_errors'
   gem 'capybara-webkit'
   gem 'database_cleaner'
+  gem 'devise'
   gem 'factory_girl_rails'
   gem 'ffaker'
   gem 'letter_opener'
